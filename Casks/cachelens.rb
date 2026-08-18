@@ -8,7 +8,7 @@ cask "cachelens" do
   homepage "https://getcachelens.pages.dev/"
 
   auto_updates false
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "CacheLens.app"
 
