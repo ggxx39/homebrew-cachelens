@@ -4,7 +4,7 @@ cask "cachelens" do
 
   url "https://github.com/ggxx39/cachelens-releases/releases/download/v#{version}/CacheLens.dmg"
   name "CacheLens"
-  desc "Explainable local audit for AI developer tool caches (Cursor, Claude Code, Xcode, etc.)"
+  desc "AI developer tool state and cache inspector"
   homepage "https://getcachelens.pages.dev/"
 
   auto_updates false
