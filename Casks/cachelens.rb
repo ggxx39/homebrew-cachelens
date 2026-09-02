@@ -1,6 +1,6 @@
 cask "cachelens" do
-  version "0.1.1"
-  sha256 "0e1443d1bec205b122d536577b5b4fcec672a64c0b051b591726ffa0627399c9"
+  version "0.2.1"
+  sha256 "2c581ab2de781136980a39df37f4412d3d1a978b87a614042d750c9d1ea4707a"
 
   url "https://github.com/ggxx39/cachelens-releases/releases/download/v#{version}/CacheLens.dmg"
   name "CacheLens"
